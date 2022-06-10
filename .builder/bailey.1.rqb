@@ -1,0 +1,5 @@
+$@HEADER#!@_linkLib
+$@HEADER#!@_groupLib
+$@HEADER#!@_nodeLib
+$@HEADER#!@_graphLib
+{"id":"194c23da-0214-40ba-9d18-55aa847b81a9","version":{"major":0,"minor":0,"build":0},"workspace":"","title":"Red Quick Graph","path":[],"namespace":"","groups":[],"groupLib":{},"parentGroup":{},"themeColors":{},"themeColorUses":{},"themeOtherUses":{},"themeGridPlacements":{"grids":[]},"themeFonts":{"fonts":[]},"spaceTheme":{},"themeVariables":{"variables":[]},"flowModels":{},"nodeLib":{},"linkLib":{},"graphs":{},"updated":1654812668663,"appConfig":{"Logging":{"IncludeScopes":false,"LogLevel":{"Default":"Debug","System":"Information","Microsoft":"Information"}},"AppSettings":{}},"graphFile":"C:\\dev\\bailey-code\\bailey.rqb"}
